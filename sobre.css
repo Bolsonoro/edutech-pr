@@ -1,0 +1,43 @@
+body {
+	background: #FFFFFF;
+}	
+
+.titulo-principal {
+    font-size: 30px;
+    text-align: center;
+    font-style: ;
+}
+
+.centro  {
+    text-align: center;
+    font-size: 23px;
+}
+
+.paragrafo {
+    text-align: center;
+    padding-left: 30px;
+}
+
+p {
+	font-size: 23px;
+}
+ol {
+    margin-left: 30px;
+	font-size: 20px;
+	font-style: italic;
+}
+ol h3 {
+   text-align: center;
+}
+
+ol {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.logogui{
+  width: 25%;
+  height: 350px;
+}
