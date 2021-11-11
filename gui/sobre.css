@@ -1,0 +1,49 @@
+body{
+   font-family: 'Rajdhani', sans-serif;
+}
+header {
+  background: url("rodapé.png");
+}
+.cabecalho {
+   position: relative;
+   width: 940px;
+   margin: 0 auto; 
+}
+.logo{
+  height: 220px;
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+   text-transform: uppercase;
+   color: #000000;
+   font-weight: bold;
+   font-size: 30px;
+   text-decoration: none;
+}
+nav a:hover {
+   color: #00BFFF;
+}
+main{
+   width: 940px;
+   margin: 0 auto; 
+  
+}
+footer {
+   text-align: center;
+   background: #4F4F4F;
+   background: url("rodapé.png");
+   padding: 40px 0;
+}
+.Copyright {
+   color: #FFFFFF;
+   font-size: 35px;
+   margin: 20px 0 0;
+}
